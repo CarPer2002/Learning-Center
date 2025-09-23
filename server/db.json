@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Jhordi",
+      "lastName": "Smith",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "firstName": "Jordi",
+      "lastName": "Sith",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "firstName": "Jhodi",
+      "lastName": "Smth",
+      "age": 23
+    },
+    "enrollments":[
+      {
+        "id":1,
+        "studentId":1,
+        "course":"Mathematics"
+      },
+      {
+        "id":2,
+        "studentId":2,
+        "course":"Physics"
+      },
+      {
+        "id":3,
+        "studentId":3,
+        "course":"Chemistry"
+      }
+    ]
+  ]
+}

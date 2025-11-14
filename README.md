@@ -10,6 +10,9 @@ This project illustrates the use of Angular Framework to build a learning center
 - Angular HttpClient
 - ngx-translate 
 - JSON Server
+- C++
+- C#
+- Vite + Vue
 
 ## User Stories
 The user stories for this application can be found in the [docs/user-stories.md](docs/user-stories.md) file.
@@ -70,8 +73,11 @@ For end-to-end (e2e) testing, run:
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+- C++ for developing the Web App environment.
+- Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 ## Additional Resources
+
+Acme learning center, for more information on using the Angular CLI, including detailed command, C++, vivit Angular.
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
